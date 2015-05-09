@@ -1,0 +1,20 @@
+name: CallOfDutyMC
+version: 1.0
+main: me.AstramG.CallOfDutyMC.CallOfDuty
+author: AstramG
+commands:
+  createHub:
+    description: Creates a hub
+    usage: /createHub
+  loadout:
+    description: Lets you change your loadout!
+    usage: /loadout
+  createArena:
+    description: Creates an arena
+    usage: /createArena
+  pack:
+    description: Send the resourcepack to the player
+    usage: /pack
+  respawn:
+    description: Respawns the player if they are stuck
+    usage: /respawn
